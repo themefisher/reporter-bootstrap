@@ -1,0 +1,27 @@
+// Color Variables
+$primary_color:#13AE6F;
+$body_color:#fff;
+$text_color:#333;
+$text_color_dark:#19234C;
+$text_color_light:#888;
+$border_color:#ececec;
+$black:#000;
+$white:#fff;
+$light:#F6F6F6;
+$dark:#131313;
+
+// Font Variables
+$primary_font:'Work Sans', sans-serif;
+$secondary_font:'Neuton', serif;
+
+@import 'mixins';
+
+@import 'typography';
+
+@import 'buttons';
+
+@import 'common';
+
+@import 'templates/navigation.scss';
+
+@import 'templates/main.scss';

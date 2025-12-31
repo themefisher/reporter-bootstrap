@@ -1,6 +1,6 @@
 # Reporter Free Bootstrap Blog Template
 
-![reporter](https://demo.themefisher.com/thumbnails/reporter.png)
+![reporter](https://assets.teamosis.com/thumbs/reporter.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/reporter/)
 
